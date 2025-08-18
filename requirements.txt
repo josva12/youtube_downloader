@@ -1,0 +1,4 @@
+# youtube_downloader/requirements.txt
+
+yt-dlp
+ttkbootstrap
