@@ -1,14 +1,6 @@
-### Instructions
-
-1.  Create a new file named `README.md` in the root of your `youtube_downloader/` project directory.
-2.  Copy and paste the entire content below into that file.
-
----
-
 # Zenith Downloader - Python YouTube Video & Audio Downloader
 
 ![App Screenshot](./assets/screenshot.png)
-*(Note: You can take a screenshot of the running application and save it as `screenshot.png` inside the `assets` folder to have it appear here.)*
 
 Zenith Downloader is a cross-platform desktop application built with Python for downloading YouTube videos and extracting audio. It provides a clean, user-friendly graphical interface (GUI) and uses the powerful `yt-dlp` library as its backend to handle the download logic.
 
